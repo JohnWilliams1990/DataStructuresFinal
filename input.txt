@@ -1,0 +1,116 @@
+105201054
+John
+Frederick
+Williams
+UCD
+0000000000
+1111111111
+john.f.williams@ucdenver.edu
+1234567890
+1145 S Oneida St Apt #c
+Denver
+Colorado
+80224
+USA
+Lance Lewis,3036666666,Lance.Lawrence@ucdenver.edu;
+Mike Kawai,,Mike.Kawai@ucdenver.edu;
+|
+121458390
+Mark
+Eli
+Kawalski
+UCD
+
+3036738503
+Mark.Kawalski@ucdenver.edu
+7206281234
+1145 S. Oneida St.
+
+Colorado
+80224
+USA
+Lance Smith,3036666666,Lance.Lawrence@ucdenver.edu;
+James Smith,3038458817,James.Spitzer@ucdenver.edu;
+|
+001000000
+Lance
+Eli
+Lawrence
+UCD
+3036282924
+3036738503
+Lance.Lawrence@ucdenver.edu
+7206281234
+1145 S. Broadway St.
+
+Colorado
+80224
+USA
+Kyle Smith,3036666666,Kyle.Skimanski@ucdenver.edu;
+|
+191458390
+Evan
+Emit
+Christian
+American Furniture 
+3036738503
+3036738503
+Evan.Christian@ucdenver.edu
+7206281234
+1284 S. Oneida St.
+Denver
+Colorado
+80224
+USA
+Kyle Smith,3036666666,Kyle.Skimanski@ucdenver.edu;
+James Smith,3038458817,James.Spitzer@ucdenver.edu;
+|
+122258390
+Mark
+Eli
+Walters
+UCD
+3036282924
+3036738503
+Mark.Walters@ucdenver.edu
+7206281234
+11145 S. Oneida St.
+Denver
+Colorado
+80224
+USA
+Kyle Smith,3036666666,Mark.Kawalski@ucdenver.edu;
+James Smith,3038458817,James.Spitzer@ucdenver.edu;
+|
+123434358
+Alfred
+Richard
+Wagner
+Metro State University
+3037563084
+1123213233
+Alfred@IamTiredOftyping.com
+2341243424
+12323. E Evans
+Denver
+Colorado
+80000
+Usa
+
+|
+123456789
+Ludwig
+van
+Beethoven
+Cici's Pizza
+3037563084
+1123213233
+Beethoven@music.edu
+1234124324
+123 Music Ln.
+Aurora
+Colorado
+80023
+USA
+Motart Composer,3030000000,Motzart@IhaveAheart.com;
+|
